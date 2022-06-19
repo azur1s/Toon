@@ -10,3 +10,4 @@ After putting the shader:
  ![Adding keywords](Images/adding_keywords.png)
 
 3) Should work, tested on (and also made on) 2020.3.33f
+4) Please put specular on 2 because it sucks just don't use it
